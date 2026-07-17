@@ -1511,6 +1511,42 @@
         "jaJP": "「最後の秘境」キャッチアップ",
         "thTH": "แคตช์อัพ The Lost City"
     },
+    "1047": {
+        "enUS": "Escape from Violet Hold",
+        "enGB": "Escape from Violet Hold",
+        "frFR": "Évasion du fort Pourpre",
+        "deDE": "Flucht aus der Violetten Festung",
+        "koKR": "보랏빛 요새 탈출 작전",
+        "esES": "Fuga del Bastión Violeta",
+        "esMX": "Escape del Bastión Violeta",
+        "ruRU": "Побег из Аметистовой крепости",
+        "zhTW": "《紫羅蘭堡大逃亡》",
+        "zhCN": "逃离紫罗兰监狱",
+        "itIT": "Fuga dalla Fortezza Violacea",
+        "ptBR": "Fuga do Castelo Violeta",
+        "plPL": "Ucieczka z Purpurowej Twierdzy",
+        "ptPT": "Fuga do Castelo Violeta",
+        "jaJP": "ヴァイオレット監獄脱出計画！",
+        "thTH": "Escape from Violet Hold"
+    },
+    "1048": {
+        "enUS": "Golden Escape from Violet Hold",
+        "enGB": "Golden Escape from Violet Hold",
+        "frFR": "Évasion du fort Pourpre doré",
+        "deDE": "Goldene Flucht aus der Violetten Festung",
+        "koKR": "황금 보랏빛 요새 탈출 작전",
+        "esES": "Fuga del Bastión Violeta dorado",
+        "esMX": "Escape del Bastión Violeta dorado",
+        "ruRU": "Золотой «Побег из Аметистовой крепости»",
+        "zhTW": "《紫羅蘭堡大逃亡》金卡",
+        "zhCN": "逃离紫罗兰监狱金色包",
+        "itIT": "Fuga dalla Fortezza Violacea Dorata",
+        "ptBR": "Fuga do Castelo Violeta Dourado",
+        "plPL": "Złota Ucieczka z Purpurowej Twierdzy",
+        "ptPT": "Fuga do Castelo Violeta Dourado",
+        "jaJP": "ゴールデン・ヴァイオレット監獄脱出計画！",
+        "thTH": "Escape from Violet Hold สีทอง"
+    },
     "1055": {
         "enUS": "Golden Across the Timeways",
         "enGB": "Golden Across the Timeways",
@@ -1564,5 +1600,23 @@
         "ptPT": "Atualização de Cataclismo",
         "jaJP": "「終焉のアゼロス」キャッチアップ",
         "thTH": "แคตช์อัพ Cataclysm"
+    },
+    "1065": {
+        "enUS": "Escape from Violet Hold Catch-up",
+        "enGB": "Escape from Violet Hold Catch-up",
+        "frFR": "Rattrapage d’Évasion du fort Pourpre",
+        "deDE": "Aufholpackung: Flucht aus der Violetten Festung",
+        "koKR": "보랏빛 요새 탈출 작전 발돋움",
+        "esES": "Ponte al día para Fuga del Bastión Violeta",
+        "esMX": "Abastecimiento de Escape del Bastión Violeta",
+        "ruRU": "«Побег из Аметистовой крепости» для догоняющих",
+        "zhTW": "《紫羅蘭堡大逃亡》追趕進度包",
+        "zhCN": "逃离紫罗兰监狱追赶包",
+        "itIT": "Recupero di Fuga dalla Fortezza Violacea",
+        "ptBR": "Atualização de Fuga do Castelo Violeta",
+        "plPL": "Pakiet posiłkowy Ucieczki z Purpurowej Twierdzy",
+        "ptPT": "Atualização de Fuga do Castelo Violeta",
+        "jaJP": "「ヴァイオレット監獄脱出計画！」キャッチアップ",
+        "thTH": "แคตช์อัพ Escape from Violet Hold"
     }
 }
